@@ -441,6 +441,7 @@ body{
      @media screen and (min-width: 320px) and (max-width: 480px) {
          body {
     margin: 0px;
+
   }
   header {
     /* width: 90vw;
@@ -481,11 +482,11 @@ body{
     /* border: 4px solid green; */
     margin: 0px;
     padding: 0px;
-    width: 98vw;
+    width: 91vw;
     height: 8vh;
   }
   .sectionone{
-    width: 97vw;
+    width: 90vw;
     height: 100vh;
     border: 2px solid brown;
     padding: 0px;
@@ -498,8 +499,8 @@ body{
     width: 500px;
   }
   .textcontainer h2{
-    font-size: 50px;
-    margin-bottom: 1px;
+    font-size: 30px;
+    margin-bottom: 0px;
      margin-left: 0px;
     margin: 0 auto;
     /* border: 2px solid blue; */
@@ -512,8 +513,7 @@ body{
     font-size: 30px;
     text-align: center;
     width: 80%;
-     margin: 100px 0px 0px 50px ;
-      text-align: center;
+     margin: 0px 0px 0px 50px;
   }
   .sent{
     display: flex;
@@ -549,7 +549,7 @@ body{
     flex-direction: column;
     align-items: center;
      margin-bottom: 0px;
-     width: 97vw;
+     width: 90vw;
      height: 120vh;
      padding: 0px;
      /* border: 2px solid blue; */
@@ -582,7 +582,7 @@ body{
   .sectionthree{
 /* border: 2px solid blue; */
  display: flex;
- width: 97vw;
+ width: 90vw;
  height: 90vh;
  flex-direction: column;
  justify-content: center;
@@ -604,7 +604,7 @@ body{
     /* border: 2px solid black; */
     display: flex;
     padding: 0px;
-    width: 97vw;
+    width: 90vw;
     height: 350vh;
      /* margin-bottom: 500px; */
     flex-direction: column;
@@ -697,7 +697,7 @@ body{
             justify-content: space-around;
             align-items: center;
             height: 70px;
-            width: 98vw;
+            width: 90vw;
         }
         .terms{
             display: flex;
