@@ -75,10 +75,19 @@ body{
      margin: 10px;
 }
 .cont2{
-    width: 30%;
+    width: 70%;
     font-size: 20px;
      margin: 10px;
-     
+     display: flex; 
+     justify-content: space-between;
+}
+.cont3{
+    display: flex;
+    flex-direction: column;
+}
+.cot2{
+     display: flex;
+    flex-direction: column;
 }
 .cont2 img{
     border-radius: 10px;

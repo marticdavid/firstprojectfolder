@@ -209,12 +209,13 @@ header{
     height: 8vh;
   }
   .one{
+    border: 2px solid blue;
     width: 98vw;
     height: 150%;
     padding: 0px;
   }
   .FormContainer{
-        width: 80%;
+        width: 50%;
         height: 700px;
         /* margin: 100px auto; */
         margin-top: 100px;
